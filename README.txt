@@ -1,4 +1,4 @@
-En Julio de 2025 desarollé con WordPress esta página web: 
+En Julio de 2025 contribuí al desarrollo de esta página web usando WordPress: 
 https://elancianoreydelosvinos.es
 
 Échale un vistazo!!!
